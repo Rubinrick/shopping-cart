@@ -17,6 +17,8 @@
   border: none;
   background-color: white;
   color: rgb(196, 91, 39);
+  padding: 10px;
+  font-size: medium;
  }
  .top-cont:active{
   color: red;
